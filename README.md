@@ -1,12 +1,12 @@
-<h1 align="center">👋 مرحباً، أنا Enzo!</h1>
+<h1 align="center">👋 Hi, I'm Enzo!</h1>
 <p align="center">
-  <strong>مبرمج ومطور واجهات و Back-End</strong><br>
-  عاشق للتقنيات الحديثة، الأنظمة، والألعاب التعليمية
+  <strong>Full-Stack Developer & UI/UX Enthusiast</strong><br>
+  Passionate about modern tech, open-source, and creating cool tools.
 </p>
 
 ---
 
-<h2 align="center">🛠 مهاراتي</h2>
+<h2 align="center">🛠 Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -18,14 +18,16 @@
 
 ---
 
-<h2 align="center">🚀 مشاريع بارزة</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 <ul>
-  <li><a href="https://github.com/enzoxwashere/Adhan-Live">Adhan Live - عرض أوقات الصلاة بشكل أنيق</a></li>
+  <li><a href="https://github.com/enzoxwashere/Adhan-Live">Adhan Live - Elegant Islamic Prayer Times Display</a></li>
+  <li><a href="https://github.com/enzoxwashere/MTA-CheatMenu">MTA Cheat Menu - Handy Tools for MTA Gaming</a></li>
+  <li><a href="https://github.com/enzoxwashere/Personal-Website">Personal Website - Portfolio & Projects</a></li>
 </ul>
 
 ---
 
-<h2 align="center">📈 نشاط GitHub</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enzoxwashere&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoxwashere&layout=compact&theme=radical&hide_border=true" />
@@ -33,7 +35,7 @@
 
 ---
 
-<h2 align="center">🌐 تواصل معي</h2>
+<h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
   <a href="https://twitter.com/enzoxwashere" target="_blank">🐦 Twitter</a> |
   <a href="https://www.linkedin.com/in/enzoxwashere" target="_blank">💼 LinkedIn</a> |
@@ -42,4 +44,4 @@
 
 ---
 
-<p align="center">✨ كل يوم جديد فرصة لتعلم شيء جديد!</p>
+<p align="center">✨ Every day is a new chance to learn something amazing!</p>
