@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Enzo!</h1>
+<h1 align="center"> Hi, I'm Enzo!</h1>
 <p align="center">
-  <strong>Full-Stack Developer & UI/UX Enthusiast</strong><br>
+  <strong>Full-Stack Developer & UI/UX Designer</strong><br>
   Passionate about modern tech, open-source, and creating cool tools.
 </p>
 
