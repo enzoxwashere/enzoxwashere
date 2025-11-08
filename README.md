@@ -21,8 +21,7 @@
 <h2 align="center">🚀 Featured Projects</h2>
 <ul>
   <li><a href="https://github.com/enzoxwashere/Adhan-Live">Adhan Live - Elegant Islamic Prayer Times Display</a></li>
-  <li><a href="https://github.com/enzoxwashere/MTA-CheatMenu">MTA Cheat Menu - Handy Tools for MTA Gaming</a></li>
-  <li><a href="https://github.com/enzoxwashere/Personal-Website">Personal Website - Portfolio & Projects</a></li>
+  <li><a href="https://main.enzox.online/">Complete Recent Discord Quest</a></li>
 </ul>
 
 ---
