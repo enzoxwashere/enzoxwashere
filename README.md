@@ -36,9 +36,7 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://twitter.com/enzoxwashere" target="_blank">🐦 Twitter</a> |
-  <a href="https://www.linkedin.com/in/enzoxwashere" target="_blank">💼 LinkedIn</a> |
-  <a href="https://discord.com/users/YourDiscordID" target="_blank">💬 Discord</a>
+  <a href="https://discord.com/users/1174381896017379378" target="_blank">💬 Discord</a>
 </p>
 
 ---
